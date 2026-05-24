@@ -88,7 +88,10 @@ Training and simulation interface with real-time stress analysis:
 
 <img width="548" height="257" alt="image" src="https://github.com/user-attachments/assets/3c855349-4a25-403e-820a-85e1b3030ca1" />
 
+
 Expert interface for product and interaction with ALIA:
+
+
 <img width="544" height="257" alt="image" src="https://github.com/user-attachments/assets/b69f6f4d-8952-4ec2-8dbf-fdaf63ce503e" />
 
 
