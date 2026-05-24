@@ -96,6 +96,3 @@ Expert interface for product and interaction with ALIA:
 
 
 
----
-
-*[Eya Latiri](https://www.linkedin.com/in/latiri-eya-6ba97a292)*
