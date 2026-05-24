@@ -69,7 +69,7 @@ A single prompted LLM cannot guarantee compliance in a regulated industry — pr
 | RAG Family Hit Rate | **3 / 3** — scenario ✓ · difficulty ✓ · process ✓ |
 | Difficulty Context Completeness | **100%** |
 | Context Faithfulness | **100%** — 0 unsupported product claims |
-| Scenario Relevance Score (cosine) | **0.354** — below 0.55 target; domain-adapted embeddings identified as fix |
+
 
 **Fine-Tuning Impact — Scenario Agent**
 
